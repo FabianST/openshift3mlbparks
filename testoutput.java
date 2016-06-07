@@ -1,4 +1,6 @@
 import java.math.*
+import java.swing.*
+import java.awt.*
 
 public static void main (String args[]){
     int [] outputarray = new int [20];
@@ -11,4 +13,5 @@ public static void main (String args[]){
           System.out.println("Summe: "+summe);
         }
     }
+    
 }
